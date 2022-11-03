@@ -24,4 +24,4 @@
         - Calculate the silhouette score for the above clustering
         
     3. Try feature scaling and then apply K-Means on the scaled features. Did that improve the Silhouette score?
-        - If Yes, can you justify why
+        - If Yes, can you justify why?
