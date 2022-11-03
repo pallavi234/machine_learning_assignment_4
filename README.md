@@ -25,3 +25,6 @@
         
     3. Try feature scaling and then apply K-Means on the scaled features. Did that improve the Silhouette score?
         - If Yes, can you justify why?
+
+
+[Video](https://drive.google.com/file/d/1i5iy7wufrKWPF8vbzLQVJRZAgutAHYXZ/view?usp=share_link)
